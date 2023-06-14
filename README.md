@@ -7,7 +7,7 @@ Simple Windows Batch Script to automate the creation of a subgraph. Useful when 
 
 ## Steps to Run:
 1. Drag abi .json files to `/abis`.
-2. Optionally edit `generate.bat` and change the default owner in the subgraph name.
+2. Optionally edit the `generate` file and change the default owner in the subgraph name.
 2. Run `generate` on the root directory.
 3. Edit address, startBlock, chain information, etc ...
 
